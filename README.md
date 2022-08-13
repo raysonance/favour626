@@ -43,10 +43,3 @@
 - 📫 How to reach me: favourgilead@gmail.com 
 - ⚡ Fun fact: I watch anime
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=E-Restaurant)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=E-Commerce)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=insta-clone)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=SMS)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
