@@ -35,23 +35,18 @@
     <img  src="http://github-readme-streak-stats.herokuapp.com?user=favour626&theme=shades-of-purple">
 </p>
 
+
+- 🔭 I’m currently working on a react project
+- 🌱 I’m currently learning algorithms and data structures
+- 👯 I’m looking to collaborate on projects related to Python and JavaScript 
+- 💬 Ask me about the progamming languages listed above
+- 📫 How to reach me: favourgilead@gmail.com 
+- ⚡ Fun fact: I watch anime
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=E-Restaurant)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=E-Commerce)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=insta-clone)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=favour626&repo=SMS)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**favour626/favour626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
