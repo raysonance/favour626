@@ -1,23 +1,23 @@
-![header](https://user-images.githubusercontent.com/76729273/184506034-c865906f-af17-416e-b079-4a0d91faa558.png)
+
 
 <p align="end">
   <img src="https://user-images.githubusercontent.com/76729273/184506161-4d21ecc8-bf11-461a-bc4b-a40e793c99a9.gif" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=favour626&show_icons=true&theme=synthwave&hide=stars,prs,contribs&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raysonance&show_icons=true&theme=synthwave&hide=stars,prs,contribs&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="end">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=favour626&langs_count=8&layout=compact">
 </p>
 
 <p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=favour626&margin-w=10&theme=algolia&title=Joined2020,Commits,Followers,Repository">
+  <img  src="https://github-profile-trophy.vercel.app/?username=raysonance&margin-w=10&theme=algolia&title=Joined2020,Commits,Followers,Repository">
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.twitter.com/thundersing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/favour-gilead" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/favour-gilead" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,6 +40,6 @@
 - 🌱 I’m currently learning algorithms and data structures
 - 👯 I’m looking to collaborate on projects related to Python and JavaScript 
 - 💬 Ask me about the progamming languages listed above
-- 📫 How to reach me: favourgilead@gmail.com 
+- 📫 How to reach me: mirrorcanyon@gmail.com 
 - ⚡ Fun fact: I watch anime
 
