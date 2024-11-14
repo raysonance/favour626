@@ -4,10 +4,10 @@
   <img src="https://user-images.githubusercontent.com/76729273/184506161-4d21ecc8-bf11-461a-bc4b-a40e793c99a9.gif" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raysonance&show_icons=true&theme=synthwave&hide=stars,prs,contribs&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="end">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=favour626&langs_count=8&layout=compact">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysonance&langs_count=8&layout=compact">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
   <a href="https://www.bootstrap.org" target="_blank"> <img src="https://user-images.githubusercontent.com/76729273/184507476-9af3ea66-9a88-4bce-a1e5-1d9dbdc8bb49.png" alt="python" width="70" height="55"/> </a> </p>
   
   <p align="center">
-    <img  src="http://github-readme-streak-stats.herokuapp.com?user=favour626&theme=shades-of-purple">
+    <img  src="http://github-readme-streak-stats.herokuapp.com?user=raysonance&theme=shades-of-purple">
 </p>
 
 
